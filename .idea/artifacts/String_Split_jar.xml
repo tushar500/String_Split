@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="String_Split:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/String_Split_jar</output-path>
+    <root id="archive" name="String_Split.jar">
+      <element id="module-output" name="String_Split" />
+    </root>
+  </artifact>
+</component>
